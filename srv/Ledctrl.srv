@@ -1,0 +1,5 @@
+int8 led1
+int8 led2 
+---
+int8 led1_status
+int8 led2_status
